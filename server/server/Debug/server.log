@@ -1,0 +1,17 @@
+﻿Build started 11/5/2017 10:00:29 PM.
+     1>Project "C:\Users\Welcome\Documents\MMT\socket\server\server\server.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\server.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt server.cpp
+         server.cpp
+     1>c:\users\welcome\documents\mmt\socket\server\server\server.cpp(20): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\welcome\documents\mmt\socket\server\server\server.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Welcome\Documents\MMT\socket\server\Debug\server.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Welcome\Documents\MMT\socket\server\Debug\server.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Welcome\Documents\MMT\socket\server\Debug\server.lib" /MACHINE:X86 Debug\server.res
+         Debug\server.obj
+         Debug\stdafx.obj
+         server.vcxproj -> C:\Users\Welcome\Documents\MMT\socket\server\Debug\server.exe
+     1>Done Building Project "C:\Users\Welcome\Documents\MMT\socket\server\server\server.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:37.82
